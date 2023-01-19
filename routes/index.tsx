@@ -28,7 +28,7 @@ export default function Home() {
             <a href="https://github.com/jahtomini">
               <GitHubIcon />
             </a>
-            <a href="">
+            <a href="https://linkedin.com/in/jahtomini">
               <LinkedInIcon />
             </a>
           </div>
