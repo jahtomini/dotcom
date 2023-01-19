@@ -1,11 +1,8 @@
-# fresh project
+# dotcom
 
-### Usage
+### About
 
-Start the project:
+My personal Web site built with Fresh and Tailwind and currently undergoing
+construction.
 
-```
-deno task start
-```
-
-This will watch the project directory and restart as necessary.
+Feel free to contribute!
